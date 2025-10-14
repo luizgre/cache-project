@@ -1,0 +1,8 @@
+*.o
+ra2_main
+*.csv
+*.png
+docs/graphs/*.png
+.vscode/
+.DS_Store
+venv/
